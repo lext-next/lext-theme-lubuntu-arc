@@ -61,3 +61,4 @@ Some bookkeeping.
 ## .shellcheckrc
 To keep *shellcheck* happy.
 
+The actual *AUR* components (PKGBUILD etc.) are not in this repository, but reside on AUR. 
