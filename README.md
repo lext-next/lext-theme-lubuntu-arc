@@ -2,12 +2,12 @@
 Install the **Lubuntu Arc** *LXQt desktop theme* (as used by Lubuntu) on **Arch Linux**.
 
 ### Installation
-This software **will eventually be made** available for Arch Linux / AUR: 
+This theme is available on AUR (for Arch Linux): 
 ```bash
-$ yay -S lext-theme-lubuntu-arc # or another appropriate package name to be determined
+$ yay -S lext-theme-lubuntu-arc
 ```
 #### Arch Linux without AUR helper
-Until then, or if you don't have an AUR helper like *yay* installed:
+If you don't have an AUR helper like *yay* installed:
 ```bash
 $ git clone https://github.com/lext-next/lext-theme-lubuntu-arc
 $ cd lext-theme-lubuntu-arc
@@ -21,6 +21,8 @@ $ rm -Rf lext-theme-lubuntu-arc
 
 ### What is this?
 This repository is intended for use with AUR (for Arch Linux and derived systems). There is already a package 'lubuntu-artwork' in the AUR that's supposed to install the Lubuntu-Arc theme as well. Mentioned package has a problem (due to that it is no longer being maintained) and can't be used anymore to install the theme (witdout tweaking the PKGBUILD file). Besides it is 'bulky' since it contains all of the artwork (including various large wallpaper files). This package lext-theme-lubuntu-arc contains only what is needed, and is maintained.
+
+## TL;DR 
 
 #### Explanation why the 'lubuntu-artwork' from AUR does not work
 The upstream Lubuntu-Arc theme is available at: http://archive.ubuntu.com/ubuntu/pool/universe/l/lubuntu-artwork. This website contains many incarnations of the LXQt theme, each for a specific release of LXQt. 
