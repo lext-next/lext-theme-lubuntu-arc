@@ -4,12 +4,13 @@ Install the **Lubuntu Arc** *LXQt desktop theme* (as used by Lubuntu) on **Arch 
 ### Some screenshots
 <p>
   <a href="screenshots/full1.png">
-    <img src="screenshots/preview1.png" width="300">
+    <img src="screenshots/preview1.png" width="450">
   </a>
   <a href="screenshots/full2.png">
-    <img src="screenshots/preview2.png" width="300">
+    <img src="screenshots/preview2.png" width="450">
   </a>
 </p>
+
 ### Installation
 This theme is available on AUR (for Arch Linux): 
 ```bash
