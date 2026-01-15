@@ -12,6 +12,8 @@ Install the **Lubuntu Arc** *LXQt desktop theme* (as used by Lubuntu) on **Arch 
   </a>
 </p>
 
+The screenshots above apply to traditional **X11**, with the classic ***Application Menu*** widget, and not the very ~~ugly~~ totally different *Fancy Menu* widget. Fortunately, the original menu widget is still available, and easily selected. Even under Wayland. Unfortunately, it renders ~~ugly~~ incorrectly with most Wayland *compositors*. Behaviour with the KDE Plasma compositor is acceptable. 
+
 ### Installation
 This theme is available on AUR (for Arch Linux): 
 ```bash
