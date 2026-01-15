@@ -35,7 +35,7 @@ $ rm -Rf lext-theme-lubuntu-arc
 ```
 
 ### What is this?
-This repository is intended for use with AUR (for Arch Linux and derived systems). There is already a package 'lubuntu-artwork' in the AUR that's supposed to install the Lubuntu-Arc theme as well. Mentioned package has a problem. If the LXQt team publishes a new version, installation on Arch Linux fails until *moi* fix the *PKGBUILD* file. Besides it is 'bulky' since it contains all of the artwork (including various large wallpaper files). 
+This repository is intended for use with AUR (for Arch Linux and derived systems). There is already a package 'lubuntu-artwork' in the AUR that's supposed to install the Lubuntu-Arc theme as well. Mentioned package has a problem. If the LXQt team publishes a new version, installation on Arch Linux fails until *moi* fixes the *PKGBUILD* file. Besides it is 'bulky' since it contains all of the artwork (including various large wallpaper files). 
 
 This AUR package (*lext-theme-lubuntu-arc) contains only what is needed, and depends not on an *upstream* server. Twice a year a new version (which reflects the latest Lubuntu release) is published by *upstream*. I'll try to keep up with it. But, if unnoticed, the former AUR package will fail. Tendency is that only few changes have been made in the recent years. Recently mostly due to the introduction of said *Fancy Menu* widget. 
 
