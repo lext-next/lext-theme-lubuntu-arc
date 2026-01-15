@@ -43,4 +43,4 @@ This AUR package (*lext-theme-lubuntu-arc) contains only what is needed, and dep
 The actual *AUR* components (PKGBUILD etc.) are not in this repository (i.e. the one which you are looking at right now). That part resides on the AUR website. The contents required by AUR also does not live in this repository. As with every website you visit, the use of the *lext-theme-lubuntu-arc* package is subject to possible monitoring in any form, and you should decide if you want to leave your footprint *before installing*.
 
 ### Wishlist
-I really could appreciate if my highly valued **LXQt**-team (or perhaps my even highly appreciated **Arch Linux** group of LXQt maintainers) could *ask* during installation which menu widget should be applied.
+I really could appreciate if my highly valued **LXQt**-team (or perhaps my even highly appreciated **Arch Linux** group of LXQt maintainers) could *ask* during installation of *lxqt-panel* which menu widget should be applied.
