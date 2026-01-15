@@ -4,17 +4,17 @@ Install the **Lubuntu Arc** *LXQt desktop theme* (as used by Lubuntu) on **Arch 
 ### Some screenshots
 <p>
   <a href="screenshots/full1.png">
-    <img src="screenshots/preview1.png" width="450">
+    <img src="screenshots/preview1.png" width="400">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="screenshots/full2.png">
-    <img src="screenshots/preview2.png" width="450">
+    <img src="screenshots/preview2.png" width="400">
   </a>
 </p>
 
-The screenshots above apply to traditional **X11** server, with the classic ***Application Menu*** widget, and not the very ~~ugly~~ totally different *Fancy Menu* widget. Fortunately, the original menu widget is still available, and easily selected. Even under Wayland. Unfortunately, it renders ~~strangely~~ incorrectly with most Wayland *compositors*. Behaviour with the KDE Plasma compositor is acceptable. 
+The screenshots above apply to traditional **X11** server, with the classic ***Application Menu*** widget, and not the ~~very ugly~~ totally different *Fancy Menu* widget. That recent ~~enhancement~~ addition is *by default* installed in **lxqt-panel** since LXQt is striving to be Wayland compatible. Fortunately for me, the original menu widget is still available, and easily selected. Even under Wayland. Unfortunately, it renders ~~strangely~~ incorrectly with most Wayland *compositors*. Behaviour with the KDE Plasma compositor is acceptable though. 
 
-The samples use ***openbox*** and ***picom***. Openbox is good enough, but easily interchangeable with another X11 window manager. Picom gives nice shades to the windows, and, if desired transparency. I restrict transparency to ***Qterminal*** only, and although *Qterminal* has a setting for that, it may now work some *backends*. In that case *picom* can provide it, although the configuration thereof is a bit ~~complicated~~ tricky. 
+The samples use ***openbox*** and ***picom***. Openbox is good enough, and easily interchanged with another X11 window manager if desired. Picom gives nice shades to the windows, and also offers transparency. I restrict transparency exclusive to ***Qterminal*** only. Although *Qterminal* has a setting for it, it may now work for all *backends*. In that case *picom* should be able to provide it. The configuration thereof is a bit ~~complicated~~ tricky. Your favourite *AI* agent is able to help.
 
 ### Installation
 This theme is available on AUR (for Arch Linux): 
