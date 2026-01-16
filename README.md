@@ -47,7 +47,7 @@ This AUR package is just cleanup of the original theme as provided by the **Lubu
 
 **Kudos to the original theme creator(s) of the theme!** 
 
-I ripped the black and white background (the *wow5-*image) from the **Razor-qt** project archives. In 2015 Razor-qt pioneered with a Qt based desktop, which eventually would merge with LXDE to form LXQt.  
+I ripped the black and white background (the *wow5*-image) from the **Razor-qt** project archives. In 2015 Razor-qt pioneered with a Qt based desktop, which eventually would merge with LXDE to form LXQt.  
 
 ### Wishlist
 + I really could appreciate if my highly valued **LXQt**-team (or perhaps my even highly appreciated **Arch Linux** group of LXQt maintainers) would *ask* during the installation of *lxqt-panel* which menu widget should be applied;
