@@ -46,6 +46,7 @@ The actual *AUR* components (PKGBUILD etc.) are not in this repository (i.e. the
 This AUR package is just cleanup of the original theme as provided by the **Lubuntu** team, ready to go for Arch Linux (mostly for my own ease of install). Just stripped down a bit, nothing more, nothing special. 
 
 **Kudos to the original theme creator(s) of the theme!** 
+
 I ripped the black and white background (the *wow5-*image) from the **Razor-qt** project archives. In 2015 Razor-qt pioneered with a Qt based desktop, which eventually would merge with LXDE to form LXQt.  
 
 ### Wishlist
