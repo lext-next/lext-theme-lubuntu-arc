@@ -12,7 +12,7 @@ Install the **Lubuntu Arc** *LXQt desktop theme* (as used by Lubuntu) on **Arch 
   </a>
 </p>
 
-The screenshots above apply to traditional **X11** server, with the classic ***Application Menu*** widget, and not the ~~very ugly~~ totally different *Fancy Menu* widget. That recent ~~enhancement~~ addition is *by default* used by **lxqt-panel** since LXQt is striving to be Wayland compatible. Fortunately for me, the original menu widget is still available, and easily selected. Even under Wayland. Unfortunately, it renders ~~strangely~~ incorrectly with most Wayland *compositors*. Behaviour with the KDE Plasma compositor is acceptable though. 
+The screenshots above apply to traditional **X11** server, with the classic ***Application Menu*** widget, and not the ~~very ugly~~ totally different *Fancy Menu* widget. That recent ~~enhancement~~ addition is used *by default* by **lxqt-panel**, since LXQt is striving to be Wayland compatible. Fortunately for me, the original menu widget is still available, and easily selected. Even under Wayland. Unfortunately, it renders ~~strangely~~ incorrectly with most Wayland *compositors*. Behaviour with the KDE Plasma compositor is acceptable though. 
 
 The samples use ***openbox*** and ***picom***. Openbox is good enough, and easily interchanged with another X11 window manager if desired. Picom gives nice shades to the windows, and also offers transparency. I restrict transparency exclusive to ***Qterminal*** only. Although *Qterminal* has a setting for it, it may not work for all *backends*. In that case *picom* should be able to provide it. The configuration thereof is a bit ~~complicated~~ tricky. Your favourite *AI* agent is able to help.
 
