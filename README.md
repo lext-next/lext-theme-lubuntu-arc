@@ -37,7 +37,7 @@ $ rm -Rf lext-theme-lubuntu-arc
 ### What is this?
 This repository is intended for use with AUR (for Arch Linux and derived systems). There is already a package 'lubuntu-artwork' in the AUR that's supposed to install the Lubuntu-Arc theme as well. Mentioned package has a problem. If the LXQt team publishes a new version, installation on Arch Linux fails until *moi* fixes the *PKGBUILD* file. Besides it is 'bulky' since it contains all of the artwork (including various large wallpaper files). 
 
-This AUR package (*lext-theme-lubuntu-arc) contains only what is needed, and depends not on an *upstream* server. Twice a year a new version (which reflects the latest Lubuntu release) is published by *upstream*. I'll try to keep up with it. But, if unnoticed, the former AUR package will fail. Tendency is that only few changes have been made in the recent years. Recently mostly due to the introduction of said *Fancy Menu* widget. 
+This AUR package (*lext-theme-lubuntu-arc*) contains only what is needed, and does not depend not on an *upstream* Lubuntu/Ubuntu server. Twice a year a new version (which reflects the latest Lubuntu release) is published by *upstream*. I'll try to keep up with it. But, if unnoticed, the former AUR package (*lubuntu-artwork*) will fail. Tendency is that only few changes have been made in the recent years. Recently mostly due to the introduction of said *Fancy Menu* widget. 
 
 ### Disclaimer
 The actual *AUR* components (PKGBUILD etc.) are not in this repository (i.e. the one which you are looking at right now). That part resides on the AUR website. The contents required by AUR also does not live in this repository. As with every website you visit, the use of the *lext-theme-lubuntu-arc* package is subject to possible monitoring in any form, and you should decide if you want to leave your footprint *before installing*.
@@ -47,7 +47,7 @@ This AUR package is just cleanup of the original theme as provided by the **Lubu
 
 **Kudos to the original theme creator(s) of the theme!** 
 
-I ripped the black and white background (the *wow5*-image) from the **Razor-qt** project archives. In 2015 Razor-qt pioneered with a Qt based desktop, which eventually would merge with LXDE to form LXQt.  
+I ripped the black and white background (the *wow5*-image) from the **Razor-qt** project archives. Around 2010 Razor-qt pioneered with a Qt based desktop, which eventually would merge with LXDE to form LXQt.  
 
 ### Wishlist
 + I really could appreciate if my highly valued **LXQt**-team (or perhaps my even highly appreciated **Arch Linux** group of LXQt maintainers) would *ask* during the installation of *lxqt-panel* which menu widget should be applied;
